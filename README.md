@@ -1,12 +1,12 @@
-### 👋 Hello, I am [Constantin Chirila](https://constantinchirila.com)
+### 👋  Hello, I am [Constantin Chirila](https://constantinchirila.com)
 
 I currently work as a front-end engineer with UI/UX design background. I´m based in Birmingham, United Kingdom.
 
 As a multi skilled developer and designer, I love transforming ideas into digital products. My mission is to create easy to use solutions which enrich customers’ experience.
-### 👨🏻‍💻 Tools I use
+### 👨🏻‍💻  Tools I use
 React, NodeJS, NextJS, Typescript, Styled Components, SCSS, MongoDB 
 
-### 🌍 Find me around the web
+### 🌍  Find me around the web
 - Portfolio: [constantinchirila.com](https://constantinchirila.com)
 - Twitter: [@constantinc](https://twitter.com/ConstantinC)
 
