@@ -9,7 +9,7 @@ React, NodeJS, NextJS, Typescript, Styled Components, SCSS, MongoDB
 ### 🌍  Find me around the web
 - Portfolio: [constantinchirila.com](https://constantinchirila.com)
 - Twitter: [@constantinc](https://twitter.com/ConstantinC)
-- Instagram:[@constantin.chirila](https://instagram.com/constantin.chirila)
+- Instagram: [@constantin.chirila](https://instagram.com/constantin.chirila) (Posting mostly gorgouse lansdcapes from UK and around the world)
 
 <!--
 **ConstantinChirila/ConstantinChirila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
