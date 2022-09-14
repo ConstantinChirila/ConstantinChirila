@@ -4,7 +4,7 @@ I currently work as a front-end engineer with UI/UX design background. I´m base
 
 As a multi skilled developer and designer, I love transforming ideas into digital products. My mission is to create easy to use solutions which enrich customers’ experience.
 ### 👨🏻‍💻  Tools I use
-React, NodeJS, NextJS, Typescript, Styled Components, SCSS, MongoDB 
+React, NextJS, NodeJS, Typescript, Styled Components, SCSS, MongoDB 
 
 ### 🌍  Find me around the web
 - Portfolio: [constantinchirila.com](https://constantinchirila.com)
