@@ -8,7 +8,7 @@ React, NextJS, NodeJS, Typescript, Styled Components, SCSS, Tailwind, PostgreSQL
 
 ### 🌍  Find me around the web
 - Portfolio: [constantinchirila.com](https://constantinchirila.com)
-- Twitter: [@constantinc](https://twitter.com/ConstantinC)
+- Bluesky: [@constantinc.bsky.social](https://bsky.app/profile/constantinc.bsky.social)
 - Instagram: [@constantin.chirila](https://instagram.com/constantin.chirila) (Posting mostly gorgeous lansdcapes from UK and around the world)
 
 <!--
