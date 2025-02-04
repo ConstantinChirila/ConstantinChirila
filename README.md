@@ -2,9 +2,8 @@
 
 I currently work as a front-end engineer with UI/UX design background. I´m based in Birmingham, United Kingdom.
 
-As a multi skilled engineer and designer, I love transforming ideas into digital products. My mission is to create easy to use solutions which enrich customers’ experience.
-### 👨🏻‍💻  Tools I use
-React, NextJS, NodeJS, Typescript, Styled Components, SCSS, Tailwind, PostgreSQL, GO
+As a multi skilled engineer and designer, I love transforming ideas into digital products. 
+I build stuff using Typescript, React (and sometimes NextJS), PostgreSQL and GoLang.
 
 ### 🌍  Find me around the web
 - Portfolio: [constantinchirila.com](https://constantinchirila.com)
