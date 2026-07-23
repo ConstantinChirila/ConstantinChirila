@@ -10,8 +10,9 @@ quickly without sacrificing code quality. A prior decade in design and UX means 
 
 ## 🛠️ What I build with
 
-**Core:** TypeScript · React · Next.js
-**Also:** Node.js · PostgreSQL · Go
+**Core:** TypeScript · React · Next.js · NodeJS
+
+**Also:** PostgreSQL · MongoDB · Python
 
 ## 💼 Open to Remote opportunities
 
