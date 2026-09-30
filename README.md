@@ -20,3 +20,6 @@ Senior software engineer with 10+ years building production web applications, fo
 - Portfolio: [constantinchirila.com](https://constantinchirila.com)
 - Linkedin: [linkedin.com/in/constantinchirila](https://www.linkedin.com/in/constantinchirila/)
 - X: [ConstantinC](https://x.com/ConstantinC)
+
+## 🌍 Tools I built
+- [bitsnbobs.tools](https://bitsnbobs.tools)
